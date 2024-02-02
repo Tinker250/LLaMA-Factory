@@ -163,3 +163,16 @@ cython_debug/
 user.config
 saves/
 cache/
+#.idea/
+dpo.sh
+ds_config.json
+export.sh
+data/dataset_info.json
+.gitignore
+sft.sh
+data/dataset_info.json
+convert_model_code.py
+train_belle_system.py
+data/dataset_info.json
+data/dataset_info.json
+.gitignore
